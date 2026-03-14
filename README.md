@@ -1,4 +1,4 @@
-# Concepts and Technologies of AI — Assessment
+# Concepts and Technologies of AI - Assessment
 **Module:** 7CS030 | MSc Data Science | University of Wolverhampton  
 **Tools:** Python, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
