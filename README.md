@@ -13,7 +13,7 @@ applied to real-world datasets.
 
 ## 📁 Tasks
 
-### Task 1 — House Price Prediction (Linear Regression)
+### Task 1 - House Price Prediction (Linear Regression)
 **File:** `task1_regression.py`  
 **Dataset:** King County, Washington housing sales (21,613 records)
 
@@ -28,7 +28,7 @@ primary drivers of value. Year built and lot size had minimal impact.
 
 ---
 
-### Task 2 — Country Development Clustering (K-Means)
+### Task 2 - Country Development Clustering (K-Means)
 **File:** `task2_clustering2.py`  
 **Dataset:** Global socio-economic indicators (9 features across 167 countries)
 
@@ -48,7 +48,7 @@ Applied K-Means clustering in three stages:
 
 ---
 
-### Task 3 — NBA Rookie Career Longevity Prediction (Classification)
+### Task 3 - NBA Rookie Career Longevity Prediction (Classification)
 **File:** `task3_Classification.py`  
 **Dataset:** NBA rookie statistics (1,329 player records)
 
